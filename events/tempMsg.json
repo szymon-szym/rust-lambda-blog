@@ -1,0 +1,5 @@
+{
+    "type": "temperatureMessage",
+    "sensorId": "tempSesnsor123ABC",
+    "temperature": 36.6
+}

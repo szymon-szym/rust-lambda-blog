@@ -1,0 +1,5 @@
+{
+    "type": "moistureMessage",
+    "sensorId": "tempSesnsor123ABC",
+    "moisture": 95
+}
